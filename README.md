@@ -1,1 +1,2 @@
-##sorting_algorithms ALX project
+RICHES UCHE
+KELLY MOMANYI
